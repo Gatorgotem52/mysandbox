@@ -1,0 +1,2 @@
+pwd - prints the local directory location
+mkdir - creates a brand new folder

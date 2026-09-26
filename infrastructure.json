@@ -1,0 +1,5 @@
+{
+ "Instance": "t2.micro",
+ "SubnetId": "subnet-0123456789abcdef0",
+ "SecurityGroup": "sg-secure-ssh-only"
+}
